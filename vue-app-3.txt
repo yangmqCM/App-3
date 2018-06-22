@@ -15,3 +15,9 @@ git log --pretty=oneline --abbrev-commit
 git tag v0.1
 
 git checkout -b dev
+
+$ git init
+$ git remote add origin git@github.com:hahah/ftpmanage.git
+git add * 
+git commit -m "init app3..."
+$ git push -u origin master

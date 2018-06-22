@@ -1,0 +1,45 @@
+{
+	"list": [{
+			"id": 1,
+			"c_title": "论单身狗的精神世界",
+			"c_img": "../../assets/image/card1.jpg",
+			"c_tag": ["比基尼",
+				"大长腿",
+				"萌妹子"
+			],
+			"c_type": "实战",
+			"c_rank": "中级",
+			"c_people_num": 6,
+			"c_evaluate": 5,
+			"c_price": 155
+		},
+		{
+			"id": 2,
+			"c_title": "论学习的重要性",
+			"c_img": "../../assets/image/card1.jpg",
+			"c_tag": ["比基尼",
+				"大长腿",
+				"萌妹子"
+			],
+			"c_type": "实战",
+			"c_rank": "中级",
+			"c_people_num": 6,
+			"c_evaluate": 5,
+			"c_price": 155
+		},
+		{
+			"id": 3,
+			"c_title": "论坚持每天读书的重要性",
+			"c_img": "../../assets/image/card1.jpg",
+			"c_tag": ["比基尼",
+				"大长腿",
+				"萌妹子"
+			],
+			"c_type": "实战",
+			"c_rank": "中级",
+			"c_people_num": 6,
+			"c_evaluate": 5,
+			"c_price": 155
+		}
+	]
+}

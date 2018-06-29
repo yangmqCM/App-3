@@ -2,23 +2,29 @@
 	<div>  
 		<Header class="header f5"/>
 		<Carousel/>
-		<CardList/>  
+		<card-list/>   
+		<Tab/>  
+		<card-two/>
+		<todo/>
 		<Footer class="footer"/>
 	</div>
 </template>
 <script> 
 	import Header from './header'
 	import Carousel from './carousel/carousel' 
-	import CardList from './card/cardList' 
+	import CardList from './card/card-list'  
+	import Tab from './tab/tab' 
+	import CardTwo from './card/card-two'
 	import Footer from './footer'
-	
+	import todo from './todo-list/todo'
 	export default{
 		components:{
-			Header,Carousel,CardList,Footer 
+			Header,Carousel,CardList,Tab,Footer,CardTwo,todo
 		}
 	}
 </script>
 <style>
+ 
  .header{
  	z-index: 1;
  	padding-top: 12px;
